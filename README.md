@@ -1,2 +1,2 @@
 # MathsTrialsPP
-Collection of maths trial past paperes
+Collection of maths trial past papers
